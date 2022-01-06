@@ -1,7 +1,8 @@
 ## 배열 (Array)
 
-![](https://images.velog.io/images/wjddk97/post/dc969164-5e26-4317-89c0-9b8c5558356e/image.png)
+![](https://images.velog.io/images/wjddk97/post/dc969164-5e26-4317-89c0-9b8c5558356e/image.png)<br>
 이미지 출처 : https://ybworld.tistory.com/78
+<br>
 <br>
 
 - 배열은 같은 타입의 데이터를 순차적으로 저장한다.
