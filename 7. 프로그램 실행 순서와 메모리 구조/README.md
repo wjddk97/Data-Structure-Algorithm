@@ -52,7 +52,7 @@
 <br>
 
 
-** Stack Overflow**
+**Stack Overflow**
 - Stack이 Heap영역을 침범하는 경우
 
 <br>
